@@ -55,12 +55,3 @@ The Power BI dashboard offers a comprehensive set of visualizations to explore t
 8. Ride Distance Distribution – Shows ride distance patterns.
 9. Driver Ratings Distribution – Examines how drivers are rated.
 10. Customer vs. Driver Ratings – Compares customer and driver rating trends.
-
-### Power BI Dashboards:
-
-- ![Dashboard Image 1. Overall](Overall.png)  
-
-- ![Power BI Dashboard Image 2](path-to-image2.png)  
-  *Description of what the dashboard image represents, e.g., "Revenue by Payment Method."*
-
----
